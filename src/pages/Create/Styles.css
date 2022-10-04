@@ -1,0 +1,30 @@
+.ck.ck-content.ck-editor__editable.ck-rounded-corners.ck-editor__editable_inline.ck-blurred {
+    height: 500px;
+}
+
+.ck.ck-content.ck-editor__editable.ck-rounded-corners.ck-editor__editable_inline.ck-focused {
+    height: 500px;
+}
+
+.createScreen {
+    width: 400px;
+}
+
+@media (min-width: 600px) {
+    .createScreen {
+        width: 500px;
+    }
+}
+
+
+@media (min-width: 768px) {
+    .createScreen {
+        width: 800px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .createScreen {
+        width: 1000px;
+    }
+}
